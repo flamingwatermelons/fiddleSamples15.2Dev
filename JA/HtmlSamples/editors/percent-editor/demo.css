@@ -1,0 +1,11 @@
+#payment {
+            width: 50%;
+        }
+
+        #salary {
+            float: left;
+        }
+
+        #deduction {
+            float: right;
+        }
